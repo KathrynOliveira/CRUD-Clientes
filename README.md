@@ -20,7 +20,7 @@ Siga as etapas abaixo para configurar e executar o projeto:
 1.  **Clone o repositório:**
 
     ```bash
-    git clone https://github.com/KathrynOliveira/CRUD---Clientes.git
+    git clone https://github.com/KathrynOliveira/CRUD-Clientes.git
     cd nome-do-diretório
     ```
 
