@@ -20,8 +20,8 @@ Siga as etapas abaixo para configurar e executar o projeto:
 1.  **Clone o repositório:**
 
     ```bash
-    git clone https://github.com/KathrynOliveira/CRUD-Clientes.git
-    cd nome-do-diretório
+    git clone https://github.com/KathrynOliveira/web-crud-clientes.git
+    cd web-crud-clientes
     ```
 
 2.  **Crie o arquivo .env:**
